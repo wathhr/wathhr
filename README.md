@@ -1,1 +1,1 @@
-![Gabe](https://wather.is-inside.me/AQhOsAfR.png)
+![gato](./assets/gato.jpg)
